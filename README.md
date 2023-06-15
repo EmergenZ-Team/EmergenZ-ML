@@ -2,7 +2,7 @@
 
 ## Overview
 
-The machine Learning part of this application is a recommendation system. We create a model for an article recommendation system that classifies fire, criminal, and health-related topics. The readers' read data is sent to the cloud and the title of the articles will be processed in the model. After that, based on what the user has read, the model will recommend appropriate categories.
+The Machine Learning part of this application is a recommendation system. We create a model for an article recommendation system that classifies fire, criminal, and health-related topics. The readers' read data is sent to the cloud and the title of the articles will be processed in the model. After that, based on what the user has read, the model will recommend appropriate categories.
 
 ## Datasets
 
